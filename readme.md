@@ -114,7 +114,3 @@ console.log(favoriteColor); // Output: GREEN
 ### Conclusion
 
 Enums in TypeScript simplify code by providing named constants. Numeric enums work well for number-based values, while string enums are great for readable strings. Use enums to write clearer, safer, and more maintainable code.
-
----
-
-*Learn more about TypeScript enums at [typescriptlang.org](https://www.typescriptlang.org/docs/handbook/enums.html).*
